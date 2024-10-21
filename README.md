@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Jakhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Rust and web3**
+- 🌱 I’m currently learning **React-Native and Rust**
 
 - 👨‍💻 All of my projects are available at [https://prateek-porfolio.vercel.app](https://prateek-porfolio.vercel.app)
 
